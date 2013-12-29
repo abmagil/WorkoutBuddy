@@ -2,4 +2,4 @@ This was my first real web development project ever.  I was new to essentially e
 
 Nevertheless, it was a good real-world chance to use some Python, specifically BeautifulSoup4 and regexen (that's the plural right?  Like oxen?.  I also experimented with PHP (I was young!) and Mozilla's Persona, back when its documentation was atrocious.
 
-Thanks go to Kevin Regan for his help at all steps in development and planning.
+Thanks go to [Kevin Regan](http://www.kevinregan.com/) for his help at all steps in development and planning.
